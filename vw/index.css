@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background: #000;
+  font-family: Roboto, sans-serif;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 23.7333vw 8vw 0;
+}
+
+.image {
+  width: 52.2667vw;
+  height: 33.6vw;
+}
+
+.image > img {
+  width: 100%;
+  max-width: 100%;
+}
+
+.title {
+  font-size: 8vw;
+  color: #fff;
+  font-weight: 400;
+  margin: 0;
+  margin-top: 5.3333vw;
+}
+
+.describe {
+  color: #9ca3af;
+  font-size: 3.7333vw;
+  text-align: center;
+  line-height: 6.4vw;
+  margin: 0;
+  margin-top: 8.5333vw;
+}
+
+.button-group {
+  margin-top: 8.5333vw;
+}
+
+.btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 87.2vw;
+  height: 16vw;
+  border-radius: 1.0667vw;
+  color: #fff;
+  font-size: 3.7333vw;
+  text-decoration-line: none;
+}
+
+.ios {
+  background: #ff6b00;
+}
+
+.android {
+  background: rgba(255, 255, 255, 0.1);
+  margin-top: 4.2667vw;
+}
+
+.apple-icon {
+  width: 4.2667vw;
+  height: 7.4667vw;
+  margin-right: 2.1333vw;
+}
+
+.android-icon {
+  width: 6.1333vw;
+  height: 7.4667vw;
+  margin-right: 2.1333vw;
+}

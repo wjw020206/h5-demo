@@ -1,2 +1,4 @@
-# H5-DEMO
-预览地址：https://wjw020206.github.io/h5-demo/
+# 响应式设计文章代码示例
+
+- rem 方案在线预览：https://codepen.io/wjw020206/pen/raadELG
+- vw 方案在线预览：https://codepen.io/wjw020206/pen/qEEKXEL
